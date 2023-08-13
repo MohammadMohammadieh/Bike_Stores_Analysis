@@ -5,3 +5,5 @@ I started on Microsoft SQL server by creating a table and inserting extensive da
 ![bike store dashboard 1](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/627e8a5f-165f-47fc-94bb-789ff4c3ce9a)
 
 ![Picture3](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/324fb3f4-4622-40f5-90aa-883885620d7b)
+
+![Picture4](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/63f67cdb-97f4-4a84-9b7d-c866a23cc81a)
