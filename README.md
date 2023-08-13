@@ -3,3 +3,5 @@ In this bike stores analysis project, I utilized a combination of tools includin
 I started on Microsoft SQL server by creating a table and inserting extensive data. Then, after cleaning the data using queries I imported into excel where it was used to create a fully dynamic dashboard the summarizes the results.
 
 ![bike store dashboard 1](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/627e8a5f-165f-47fc-94bb-789ff4c3ce9a)
+
+![Bike store dashboard 2](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/9e59474d-5b7b-4997-a592-321e2db84e25)
