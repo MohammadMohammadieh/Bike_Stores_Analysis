@@ -4,4 +4,4 @@ I started on Microsoft SQL server by creating a table and inserting extensive da
 
 ![bike store dashboard 1](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/627e8a5f-165f-47fc-94bb-789ff4c3ce9a)
 
-![Bike store dashboard 2](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/9e59474d-5b7b-4997-a592-321e2db84e25)
+![Picture3](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/324fb3f4-4622-40f5-90aa-883885620d7b)
